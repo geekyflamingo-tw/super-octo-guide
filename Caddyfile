@@ -1,0 +1,4 @@
+:8888
+file_server
+templates {
+    mime .mjs application/javascript }
